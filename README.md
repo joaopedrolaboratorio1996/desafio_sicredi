@@ -42,14 +42,6 @@ Instalação feita a partir do site oficial https://www.python.org/. Instalaçã
 Foram utilizados SQL para a construção e modelagem do banco de dados e Python para confeccionar a ETL. Como estou utilizando
 o Spark como framework, foi conveniente transformar os dados com o pySpark.
 
-## Testes Unitários
-
--- EM DESENVOLVIMENTO -- 
-
-## Docker 
-
--- EM DESENVOLVIMENTO --
-
 ## Autor
 
 - João Pedro Boeira Martins de Souza :)
