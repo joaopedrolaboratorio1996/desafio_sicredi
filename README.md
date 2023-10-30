@@ -1,5 +1,5 @@
 # Desafio SiCooperative LTDA
-Repositório deas informações do desafio
+Repositório das informações do desafio
 
 # Data Lake | ETL - SiCooperative LTDA
 
