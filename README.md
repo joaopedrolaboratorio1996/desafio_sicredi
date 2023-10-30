@@ -10,7 +10,7 @@ soluções financeiras aos seus clientes. Este mecanismo soluciona problemas de 
 
 - Windows 10
 - Python 3.11
-- Apache Spark 3.1.1
+- Apache Spark 3.3.1
 - PostgreSQL 16.0
   
 ## Estrutura do Banco de Dados
@@ -28,7 +28,7 @@ tabelas:
 
 ## Instalação Apache Spark
 
- O framework de processamento de dados escolhido foi o Apache Spark na versão 3.1.1. É um framework que eu já conheço e consigo 
+ O framework de processamento de dados escolhido foi o Apache Spark na versão 3.3.1. É um framework que eu já conheço e consigo 
  combinar com pyspark. O download pode ser obtido diretamente no site oficial da Apache https://spark.apache.org/downloads.html. Toda a 
  configuração foi feita manual, como variáveis de ambiente e estrutura raiz das pastas. Pensei em utilizar o databricks para trabalhar 
  web usando já o spark nativo, evitando a instalação e configuração de ambiente do Spark, mas preferi utilizar localmente.
