@@ -1,0 +1,35 @@
+# Guia de instalação Apache Spark e suas dependências no sistema operacional windows 10.
+
+1.0 - Instalação JDK: Através do link oficial https://www.oracle.com/br/java/technologies/downloads/, é possível adquirir
+o arquivo de instalação do java. Estou usando a versão 19.0.2. É interessante criar uma pasta na raiz do sistema chamada
+java e lá instalar os arquivos. Feito isso, precisamos declarar a variável de ambiente do java: JAVA_HOME = C:\java\jdk.
+
+2.0 - Instalação Python: Através do link oficial https://www.python.org/downloads/, é possível adquirir o arquivo de 
+instalação do Python. Estou usando a versão 3.11. É interessante já selecionar a opção de adicionar a variável 
+de ambiente do Python no PATH, caso contrário é necessário fazer manualmente.
+
+2.1 - Instalação biblioteca pySpark: Como nesse projeto estamos usando o Spark como framework de processamento, estaremos
+usando também a biblioteca pySpark para ETL. É possível fazer a instalação da biblioteca através do do gerenciador
+de pacotes pip. No terminal: pip install pyspark. 
+
+3.0 - Instalação Apache Spark 3.3.1 Pre-Build Apache Hadoop 2.7: Através do link oficial https://archive.apache.org/dist/spark/spark-3.3.1/ 
+é possível fazer o download do arquivo zip do Apache. Foi 
+criado na raiz do sistema o diretório 'spark' e lá descomprimido o arquivo zip 'spark-3.3.1-bin-hadoop2.tgz',  
+cujo contêm as pastas do Spark. 
+
+3.1 - Instalação repositório Winutils (binários Hadoop para Windows): Através do link https://github.com/steveloughran/winutils, podemos
+extrair a pasta bin com o arquivo winutils. É interessante alocar esse arquivo numa pasta chamada hadoop, na raiz do sistema.
+
+4.0 - Configuração variáveis de ambiente e paths: 
+    - PATH:   %SPARK_HOME%\bin
+              %HADOOP_HOME%\bin 
+              %JAVA_HOME%\bin
+       
+    - VARIÁVEIS: SPARK_HOME- C:\spark\spark-3.3.1-bin-hadoop2
+                 HADOOP_HOME- C:\hadoop                 
+                 PYTHONPATH- %SPARK_HOME%\python;%SPARK_HOME%\python\lib\py4j-0.10.9-src;%PYTHONPATH%  
+
+5.0 - Inicializando Spark: no prompt de comando, podemos iniciar o spark com o seguinte comando: 
+C:\spark\spark-3.3.1-bin-hadoop2\bin\spark-shell
+
+# Pronto! Agora podemos criar nossas ETL's!

@@ -1,0 +1,16 @@
+# Bônus: 
+
+# Provisionar o ambiente e realizar uma execução inicial do processo de maneira automatizada utilizando Docker:#
+
+Apesar de conhecer a parte conceitual do Docker, nunca fiz antes algum projeto utilizando essa tecnologia. Claro que 
+com mais tempo, com certeza iria pesquisar, aprender e implementar um ambiente docker com um contêiner para rodar de forma agendada a ETL do projeto. Iria baixar o docker e instalar uma imagem com o ambiente Spark pronto com suas dependências. 
+Entretanto, outra forma que eu faria seria criar um script batch que executasse minha etl. E então agendaria pelo agendador de tarefas do 
+windows. Num ambiente Linux, iria fazer o mesmo processo, só que então o arquivo seria bash e agendado via crontab.
+
+
+# Criar testes unitários para cobrir as principais partes do fluxo. 
+
+Uma solução para isso seria implementar a ferramenta Jenkins. Faria o servidor Jenkins, automatizaria testes sempre que 
+o meu código fonte no git fosse alterado e registraria as saídas para análise. Apesar de não conhecer tanto sobre a parte de testes, 
+com certeza, com tempo, iria me dedicar aos estudos de meios e ferramentas para implementar uma solução automatizada de testes.
+

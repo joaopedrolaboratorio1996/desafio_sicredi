@@ -1,0 +1,401 @@
+movimento_flat
+"nome_associado Joao
+sobrenome_associado Silva
+idade_associado 35
+vlr_transacao_movimento 36.90
+des_transacao_movimento Supermercado
+data_movimento 29/12/2023
+numero_cartao 1234567890123456
+nome_impresso_cartao Joao Silva Card
+tipo_conta Corrente
+data_criacao_conta 15/01/2023"
+"nome_associado Joao
+sobrenome_associado Silva
+idade_associado 35
+vlr_transacao_movimento 50.25
+des_transacao_movimento Compra de supermercado
+data_movimento 10/01/2023
+numero_cartao 1234567890123456
+nome_impresso_cartao Joao Silva Card
+tipo_conta Corrente
+data_criacao_conta 15/01/2023"
+"nome_associado Joao
+sobrenome_associado Silva
+idade_associado 35
+vlr_transacao_movimento 18.70
+des_transacao_movimento Posto de gasolina
+data_movimento 03/01/2023
+numero_cartao 2345678901234567
+nome_impresso_cartao Joao Silva Card
+tipo_conta Poupanca
+data_criacao_conta 20/02/2023"
+"nome_associado Joao
+sobrenome_associado Silva
+idade_associado 35
+vlr_transacao_movimento 35.60
+des_transacao_movimento Restaurante
+data_movimento 05/02/2023
+numero_cartao 2345678901234567
+nome_impresso_cartao Joao Silva Card
+tipo_conta Poupanca
+data_criacao_conta 20/02/2023"
+"nome_associado Maria
+sobrenome_associado Pereira
+idade_associado 28
+vlr_transacao_movimento 54.30
+des_transacao_movimento Restaurante
+data_movimento 07/01/2023
+numero_cartao 3456789012345678
+nome_impresso_cartao Maria Pereira Card
+tipo_conta Poupanca
+data_criacao_conta 10/03/2023"
+"nome_associado Maria
+sobrenome_associado Pereira
+idade_associado 28
+vlr_transacao_movimento 120.00
+des_transacao_movimento Pagamento de conta de energia
+data_movimento 15/03/2023
+numero_cartao 3456789012345678
+nome_impresso_cartao Maria Pereira Card
+tipo_conta Poupanca
+data_criacao_conta 10/03/2023"
+"nome_associado Carlos
+sobrenome_associado Ferreira
+idade_associado 45
+vlr_transacao_movimento 30.10
+des_transacao_movimento Farmacia
+data_movimento 24/02/2023
+numero_cartao 5678901234567890
+nome_impresso_cartao Carlos Ferreira Card
+tipo_conta Salario
+data_criacao_conta 05/04/2023"
+"nome_associado Carlos
+sobrenome_associado Ferreira
+idade_associado 45
+vlr_transacao_movimento 75.40
+des_transacao_movimento Compras online
+data_movimento 08/04/2023
+numero_cartao 5678901234567890
+nome_impresso_cartao Carlos Ferreira Card
+tipo_conta Salario
+data_criacao_conta 05/04/2023"
+"nome_associado Carlos
+sobrenome_associado Ferreira
+idade_associado 45
+vlr_transacao_movimento 40.50
+des_transacao_movimento Compras online
+data_movimento 12/02/2023
+numero_cartao 4567890123456789
+nome_impresso_cartao Carlos Ferreira Card
+tipo_conta Corrente
+data_criacao_conta 22/03/2023"
+"nome_associado Carlos
+sobrenome_associado Ferreira
+idade_associado 45
+vlr_transacao_movimento 20.75
+des_transacao_movimento Posto de gasolina
+data_movimento 25/03/2023
+numero_cartao 4567890123456789
+nome_impresso_cartao Carlos Ferreira Card
+tipo_conta Corrente
+data_criacao_conta 22/03/2023"
+"nome_associado Ana
+sobrenome_associado Rodrigues
+idade_associado 33
+vlr_transacao_movimento 79.20
+des_transacao_movimento Cinema
+data_movimento 10/03/2023
+numero_cartao 6789012345678901
+nome_impresso_cartao Ana Rodrigues Card
+tipo_conta Poupanca
+data_criacao_conta 18/04/2023"
+"nome_associado Ana
+sobrenome_associado Rodrigues
+idade_associado 33
+vlr_transacao_movimento 45.00
+des_transacao_movimento Cinema
+data_movimento 12/05/2023
+numero_cartao 6789012345678901
+nome_impresso_cartao Ana Rodrigues Card
+tipo_conta Poupanca
+data_criacao_conta 18/04/2023"
+"nome_associado Miguel
+sobrenome_associado Santos
+idade_associado 29
+vlr_transacao_movimento 26.45
+des_transacao_movimento Posto de gasolina
+data_movimento 22/03/2023
+numero_cartao 7890123456789012
+nome_impresso_cartao Miguel Santos Card
+tipo_conta Corrente
+data_criacao_conta 02/05/2023"
+"nome_associado Miguel
+sobrenome_associado Santos
+idade_associado 29
+vlr_transacao_movimento 60.80
+des_transacao_movimento Restaurante
+data_movimento 19/06/2023
+numero_cartao 7890123456789012
+nome_impresso_cartao Miguel Santos Card
+tipo_conta Corrente
+data_criacao_conta 02/05/2023"
+"nome_associado Isabel
+sobrenome_associado Gomes
+idade_associado 38
+vlr_transacao_movimento 62.15
+des_transacao_movimento Restaurante
+data_movimento 08/05/2023
+numero_cartao 9012345678901234
+nome_impresso_cartao Isabel Gomes Card
+tipo_conta Corrente
+data_criacao_conta 01/06/2023"
+"nome_associado Isabel
+sobrenome_associado Gomes
+idade_associado 38
+vlr_transacao_movimento 95.50
+des_transacao_movimento Compras online
+data_movimento 14/07/2023
+numero_cartao 9012345678901234
+nome_impresso_cartao Isabel Gomes Card
+tipo_conta Corrente
+data_criacao_conta 01/06/2023"
+"nome_associado Isabel
+sobrenome_associado Gomes
+idade_associado 38
+vlr_transacao_movimento 37.80
+des_transacao_movimento Supermercado
+data_movimento 05/04/2023
+numero_cartao 8901234567890123
+nome_impresso_cartao Isabel Gomes Card
+tipo_conta Poupanca
+data_criacao_conta 15/05/2023"
+"nome_associado Isabel
+sobrenome_associado Gomes
+idade_associado 38
+vlr_transacao_movimento 22.30
+des_transacao_movimento Farmacia
+data_movimento 03/07/2023
+numero_cartao 8901234567890123
+nome_impresso_cartao Isabel Gomes Card
+tipo_conta Poupanca
+data_criacao_conta 15/05/2023"
+"nome_associado Ricardo
+sobrenome_associado Almeida
+idade_associado 40
+vlr_transacao_movimento 47.90
+des_transacao_movimento Compras online
+data_movimento 15/05/2023
+numero_cartao 1234567890123450
+nome_impresso_cartao Ricardo Almeida Card
+tipo_conta Poupanca
+data_criacao_conta 14/06/2023"
+"nome_associado Ricardo
+sobrenome_associado Almeida
+idade_associado 40
+vlr_transacao_movimento 17.20
+des_transacao_movimento Posto de gasolina
+data_movimento 01/08/2023
+numero_cartao 1234567890123450
+nome_impresso_cartao Ricardo Almeida Card
+tipo_conta Poupanca
+data_criacao_conta 14/06/2023"
+"nome_associado Paula
+sobrenome_associado Oliveira
+idade_associado 27
+vlr_transacao_movimento 33.60
+des_transacao_movimento Farmacia
+data_movimento 01/06/2023
+numero_cartao 3456789012345670
+nome_impresso_cartao Paula Oliveira Card
+tipo_conta Corrente
+data_criacao_conta 05/07/2023"
+"nome_associado Paula
+sobrenome_associado Oliveira
+idade_associado 27
+vlr_transacao_movimento 42.90
+des_transacao_movimento Restaurante
+data_movimento 10/08/2023
+numero_cartao 3456789012345670
+nome_impresso_cartao Paula Oliveira Card
+tipo_conta Corrente
+data_criacao_conta 05/07/2023"
+"nome_associado Gustavo
+sobrenome_associado Martins
+idade_associado 34
+vlr_transacao_movimento 15.25
+des_transacao_movimento Cinema
+data_movimento 14/06/2023
+numero_cartao 4567890123456780
+nome_impresso_cartao Gustavo Martins Card
+tipo_conta Corrente
+data_criacao_conta 17/07/2023"
+"nome_associado Gustavo
+sobrenome_associado Martins
+idade_associado 34
+vlr_transacao_movimento 28.75
+des_transacao_movimento Supermercado
+data_movimento 29/08/2023
+numero_cartao 4567890123456780
+nome_impresso_cartao Gustavo Martins Card
+tipo_conta Corrente
+data_criacao_conta 17/07/2023"
+"nome_associado Gustavo
+sobrenome_associado Martins
+idade_associado 34
+vlr_transacao_movimento 22.70
+des_transacao_movimento Posto de gasolina
+data_movimento 02/07/2023
+numero_cartao 4567890123456785
+nome_impresso_cartao Gustavo Martins Card
+tipo_conta Poupanca
+data_criacao_conta 02/08/2023"
+"nome_associado Gustavo
+sobrenome_associado Martins
+idade_associado 34
+vlr_transacao_movimento 19.95
+des_transacao_movimento Cinema
+data_movimento 02/09/2023
+numero_cartao 4567890123456785
+nome_impresso_cartao Gustavo Martins Card
+tipo_conta Poupanca
+data_criacao_conta 02/08/2023"
+"nome_associado Catarina
+sobrenome_associado Fonseca
+idade_associado 31
+vlr_transacao_movimento 78.40
+des_transacao_movimento Restaurante
+data_movimento 17/07/2023
+numero_cartao 5678901234567890
+nome_impresso_cartao Catarina Fonseca Card
+tipo_conta Salario
+data_criacao_conta 20/08/2023"
+"nome_associado Catarina
+sobrenome_associado Fonseca
+idade_associado 31
+vlr_transacao_movimento 88.60
+des_transacao_movimento Compras online
+data_movimento 18/09/2023
+numero_cartao 5678901234567890
+nome_impresso_cartao Catarina Fonseca Card
+tipo_conta Salario
+data_criacao_conta 20/08/2023"
+"nome_associado Bruno
+sobrenome_associado Sousa
+idade_associado 42
+vlr_transacao_movimento 42.35
+des_transacao_movimento Compras online
+data_movimento 20/08/2023
+numero_cartao 6789012345678900
+nome_impresso_cartao Bruno Sousa Card
+tipo_conta Poupanca
+data_criacao_conta 18/09/2023"
+"nome_associado Bruno
+sobrenome_associado Sousa
+idade_associado 42
+vlr_transacao_movimento 29.10
+des_transacao_movimento Posto de gasolina
+data_movimento 19/10/2023
+numero_cartao 6789012345678900
+nome_impresso_cartao Bruno Sousa Card
+tipo_conta Poupanca
+data_criacao_conta 18/09/2023"
+"nome_associado Bruno
+sobrenome_associado Sousa
+idade_associado 42
+vlr_transacao_movimento 66.90
+des_transacao_movimento Supermercado
+data_movimento 02/08/2023
+numero_cartao 6789012345678900
+nome_impresso_cartao Bruno Sousa Card
+tipo_conta Corrente
+data_criacao_conta 03/09/2023"
+"nome_associado Bruno
+sobrenome_associado Sousa
+idade_associado 42
+vlr_transacao_movimento 67.30
+des_transacao_movimento Restaurante
+data_movimento 05/10/2023
+numero_cartao 6789012345678900
+nome_impresso_cartao Bruno Sousa Card
+tipo_conta Corrente
+data_criacao_conta 03/09/2023"
+"nome_associado Fernanda
+sobrenome_associado Rocha
+idade_associado 39
+vlr_transacao_movimento 49.60
+des_transacao_movimento Farmacia
+data_movimento 03/09/2023
+numero_cartao 7890123456789010
+nome_impresso_cartao Fernanda Rocha Card
+tipo_conta Corrente
+data_criacao_conta 01/10/2023"
+"nome_associado Fernanda
+sobrenome_associado Rocha
+idade_associado 39
+vlr_transacao_movimento 39.75
+des_transacao_movimento Farmacia
+data_movimento 11/11/2023
+numero_cartao 7890123456789010
+nome_impresso_cartao Fernanda Rocha Card
+tipo_conta Corrente
+data_criacao_conta 01/10/2023"
+"nome_associado Lucas
+sobrenome_associado Moreira
+idade_associado 30
+vlr_transacao_movimento 13.75
+des_transacao_movimento Cinema
+data_movimento 18/09/2023
+numero_cartao 8901234567890120
+nome_impresso_cartao Lucas Moreira Card
+tipo_conta Corrente
+data_criacao_conta 16/10/2023"
+"nome_associado Lucas
+sobrenome_associado Moreira
+idade_associado 30
+vlr_transacao_movimento 23.45
+des_transacao_movimento Compras online
+data_movimento 25/11/2023
+numero_cartao 8901234567890120
+nome_impresso_cartao Lucas Moreira Card
+tipo_conta Corrente
+data_criacao_conta 16/10/2023"
+"nome_associado Sofia
+sobrenome_associado Carvalho
+idade_associado 36
+vlr_transacao_movimento 73.20
+des_transacao_movimento Restaurante
+data_movimento 16/10/2023
+numero_cartao 2345678901234561
+nome_impresso_cartao Sofia Carvalho Card
+tipo_conta Salario
+data_criacao_conta 19/11/2023"
+"nome_associado Sofia
+sobrenome_associado Carvalho
+idade_associado 36
+vlr_transacao_movimento 51.20
+des_transacao_movimento Restaurante
+data_movimento 16/12/2023
+numero_cartao 2345678901234561
+nome_impresso_cartao Sofia Carvalho Card
+tipo_conta Salario
+data_criacao_conta 19/11/2023"
+"nome_associado Sofia
+sobrenome_associado Carvalho
+idade_associado 36
+vlr_transacao_movimento 25.90
+des_transacao_movimento Posto de gasolina
+data_movimento 01/10/2023
+numero_cartao 1234567890123451
+nome_impresso_cartao Sofia Carvalho Card
+tipo_conta Poupanca
+data_criacao_conta 04/11/2023"
+"nome_associado Sofia
+sobrenome_associado Carvalho
+idade_associado 36
+vlr_transacao_movimento 15.80
+des_transacao_movimento Cinema
+data_movimento 04/12/2023
+numero_cartao 1234567890123451
+nome_impresso_cartao Sofia Carvalho Card
+tipo_conta Poupanca
+data_criacao_conta 04/11/2023"
